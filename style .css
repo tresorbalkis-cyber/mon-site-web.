@@ -21,3 +21,16 @@ footer {
     color: white;
     padding: 15px;
 }
+
+.temoignages {
+    background-color: white;
+    padding: 30px;
+}
+
+.temoignage {
+    background-color: #e3f2fd;
+    margin: 15px auto;
+    padding: 15px;
+    max-width: 500px;
+    border-radius: 8px;
+}
